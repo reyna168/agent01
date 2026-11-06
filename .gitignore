@@ -1,0 +1,14 @@
+# 環境與密鑰
+.env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
